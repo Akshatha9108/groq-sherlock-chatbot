@@ -31,6 +31,7 @@ A Generative AI chatbot that interacts with a 300+ page Sherlock Holmes novel to
 🔎 How does Sherlock Holmes solve "The Red-Headed League"?
 🔎 Who is Dr. Watson and what is his role?
 🔎 Explain Holmes' method of deduction in simple terms.
+```
 
 ## 💻 How to Run
 Open the Colab Notebook
