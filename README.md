@@ -46,6 +46,14 @@ Ask your question!
 pip install langchain faiss-cpu sentence-transformers pdfminer.six requests
 
 ##🔐 Get Groq API Key
+- Go to https://console.groq.com
+
+- Click on API Keys > Generate Key
+
+- Use it in the notebook like:
+  import os
+  os.environ["GROQ_API_KEY"] = "your_api_key_here"
+
 ### Visit Groq Cloud and create your free API key.
 
 ---
