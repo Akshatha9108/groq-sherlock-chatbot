@@ -55,4 +55,5 @@ pip install langchain faiss-cpu sentence-transformers pdfminer.six requests
 Inside your README, add:
 
 ```markdown
-▶️ [Run on Google Colab](https://colab.research.google.com/drive/your_colab_notebook_link_here)
+▶️ [Run on Google Colab]
+https://colab.research.google.com/drive/1HQB9J3N7kyhR4x0X91wT9RlgnExzf8kZ?usp=sharing
